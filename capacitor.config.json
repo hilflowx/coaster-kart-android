@@ -1,0 +1,9 @@
+{
+  "appId": "com.deskracer.game",
+  "appName": "Coaster Kart",
+  "webDir": "dist",
+  "backgroundColor": "#02040a",
+  "android": {
+    "allowMixedContent": false
+  }
+}
